@@ -9,6 +9,8 @@ public class ibiboconstants {
 		//*******************************url's***********************
 	public static final String ibibourl= "https://www.goibibo.com";
 	
+	public static final String test="test";
+	
 		
 		
 		//****************************xpath's*******************************
